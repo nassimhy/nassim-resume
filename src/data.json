@@ -22,63 +22,63 @@
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/ico-react.png",
+                        "image":"./image/ico-react.png",
                         "title":"React"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/ico-js.png",
+                        "image":"./image/ico-js.png",
                         "title":"Java Script"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/sass.png",
+                        "image":"./image/sass.png",
                         "title":"Sass"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/html5.png",
+                        "image":"./image/html5.png",
                         "title":"HTML"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/css3.png",
+                        "image":"./image/css3.png",
                         "title":"CSS"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/bootstrap.png",
+                        "image":"./image/bootstrap.png",
                         "title":"Bootstrap"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/ico-js.png",
+                        "image":"./image/ico-js.png",
                         "title":"ES6"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/network.png",
+                        "image":"./image/network.png",
                         "title":"Network+"
                     }
                 },
                 {
                     "type":"card",
                     "content":{
-                        "image":"images/server.png",
+                        "image":"./image/server.png",
                         "title":"Mcse"
                     }
                 }
@@ -86,7 +86,7 @@
         }
     ],
     "icons":{
-        "down":"images/arrow-down.png"
+        "down":"./image/arrow-down.png"
     }
     
 }
