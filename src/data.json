@@ -1,0 +1,92 @@
+{
+    "title":"Hello, I'm Nassim!",
+    "subtitle":"Front-End Developer | Blogger | Athlete | Pianist",
+    "links":{
+        "github":"https://github.com/nassimhy ",
+        "stackoverflow":"https://stackoverflow.com/story/nassimhosseiny",
+        "linkedin":"https://ir.linkedin.com › nassim-hosseiny-091b01b4"
+    },
+    "sections" : [
+        {
+            "title": "About",
+            "items":[
+                {
+                    "type":"p",
+                    "content":"I'm Nasim Hosseini. Graduated in Computer Engineering from Islamic Azad University of Tehran also I am a postgraduate student in Artificial Intelligence at Amir Kabir University of Iran. I'm working on developing web applications. I obtained the course documents of Network+ & MCSE from Iran University of Science and Technology."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/ico-react.png",
+                        "title":"React"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/ico-js.png",
+                        "title":"Java Script"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/sass.png",
+                        "title":"Sass"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/html5.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/css3.png",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/bootstrap.png",
+                        "title":"Bootstrap"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/ico-js.png",
+                        "title":"ES6"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/network.png",
+                        "title":"Network+"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"../image/server.png",
+                        "title":"Mcse"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons":{
+        "down":"../image/arrow-down.png"
+    }
+    
+}
