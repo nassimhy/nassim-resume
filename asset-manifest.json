@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nassim-resume/static/css/main.5c47b20a.chunk.css",
+    "main.js": "/nassim-resume/static/js/main.d9326220.chunk.js",
+    "main.js.map": "/nassim-resume/static/js/main.d9326220.chunk.js.map",
+    "runtime~main.js": "/nassim-resume/static/js/runtime~main.92989014.js",
+    "runtime~main.js.map": "/nassim-resume/static/js/runtime~main.92989014.js.map",
+    "static/js/2.eab76a35.chunk.js": "/nassim-resume/static/js/2.eab76a35.chunk.js",
+    "static/js/2.eab76a35.chunk.js.map": "/nassim-resume/static/js/2.eab76a35.chunk.js.map",
+    "index.html": "/nassim-resume/index.html",
+    "precache-manifest.c8baf09ebd6321ff05364dd44911d79f.js": "/nassim-resume/precache-manifest.c8baf09ebd6321ff05364dd44911d79f.js",
+    "service-worker.js": "/nassim-resume/service-worker.js",
+    "static/css/main.5c47b20a.chunk.css.map": "/nassim-resume/static/css/main.5c47b20a.chunk.css.map"
+  }
+}
