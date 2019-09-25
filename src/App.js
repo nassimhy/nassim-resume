@@ -41,7 +41,7 @@ class App extends Component {
         <Element name="Home" className="element" />
         <Navbar />
         <div className="changetheme">
-          <img src="../image/edit.png" onClick={this.changeColor} />
+          <img src="./image/edit.png" onClick={this.changeColor} />
         </div>
         <TitleAndIcons
           color={this.state.color}
